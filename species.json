@@ -1,0 +1,8 @@
+[
+  {
+    "type": "SPECIES",
+    "id": "POKEMON",
+    "anger_triggers": [ "FRIEND_ATTACKED", "FRIEND_DIED", "HURT" ],
+    "fear_triggers": [ "FRIEND_DIED", "HURT" ]
+  }
+]
